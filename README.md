@@ -1,4 +1,9 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&size=23&duration=2100&pause=500&color=FFB6C1&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%E0%B8%85%5E%E2%87%80%EF%BB%8C%E2%86%BC%5E%E0%B8%85)](https://git.io/typing-svg)
+
+## About ME
+
+## GitHub Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honghongleong&show_icons=true&theme=radical)
 
 <!--
 **honghongleong/honghongleong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
