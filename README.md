@@ -8,7 +8,7 @@
 
 # 🦈Things Explored(Present & Past)🦈
 ## ✏️Design/3D✏️
-[![Design](https://skillicons.dev/icons?i=unity,blender,figma,bootstrap,html,css,)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=unity,blender,ps,figma,bootstrap,html,css)](https://skillicons.dev)
 ## 💻Coding‍💻
 [![Programming](https://skillicons.dev/icons?i=py,bots,js,flask,sqlite)](https://skillicons.dev)
 ## SBC
