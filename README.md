@@ -10,7 +10,7 @@
 ## ✏️Design/3D✏️
 [![Design](https://skillicons.dev/icons?i=unity,blender,ps,figma,bootstrap,html,css)](https://skillicons.dev)
 ## 💻Coding‍💻
-[![Programming](https://skillicons.dev/icons?i=py,bots,js,flask,sqlite)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=py,bots,js,flask,sqlite,cs)](https://skillicons.dev)
 ## SBC
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 <!--
