@@ -4,10 +4,10 @@
 ![Kurokami's GitHub stats](https://github-readme-stats.vercel.app/api?username=k3rokami&show_icons=true&theme=radical&count_private=true&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=k3rokami&theme=radical&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://git.io/streak-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3rokami&layout=compact&theme=radical&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Kurokami's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=k3rokami&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kurokami's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kurokami&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🛠️Currently working on🛠️
-[![Gura-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Kurokami&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/k3rokami/Gura-Bot)
+[![Gura-Bot](https://github-readme-stats.vercel.app/api/pin/?username=k3rokami&repo=Gura-Bot&theme=dark&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/k3rokami/Gura-Bot)
 
 ## 💭About Me💭
 I'm a student and this account is a collection of my previous and current works, be it school or personal projects.<br />
