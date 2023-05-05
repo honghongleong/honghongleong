@@ -3,7 +3,7 @@
 # 🎏GitHub Status & Languages⛩️
 ![Kurokami's GitHub stats](https://github-readme-stats-k3rokami.vercel.app/api?username=k3rokami&show_icons=true&theme=radical&count_private=true&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=k3rokami&theme=radical&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://git.io/streak-stats)<br />
-[![Top Langs](https://github-readme-stats-k3rokami.vercel.app/api/top-langs/?username=k3rokami&layout=compact&theme=radical&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-k3rokami.vercel.app/api/top-langs/?username=k3rokami&layout=compact&theme=radical&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Kurokami's wakatime stats](https://github-readme-stats-k3rokami.vercel.app/api/wakatime?username=kurokami&theme=radical&hide_border=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🛠️Currently working on🛠️
